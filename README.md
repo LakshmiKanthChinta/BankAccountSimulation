@@ -21,6 +21,8 @@ This is a simple Java-based console application that simulates basic bank accoun
 2. Open the project in Eclipse or any Java IDE.
 3. Compile and run the `BankApp.java` file.
 4. Follow the on-screen menu to perform operations.
+   
+Note: The account is created manually in the code with a default account holder name, number, and initial balance. User input for account creation is not implemented.
 
 ## Project Structure
 ```
